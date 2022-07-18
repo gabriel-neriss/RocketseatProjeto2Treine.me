@@ -6,7 +6,7 @@ Nesse projeto além dos conceitos já aprendidos de HTML e CSS, tivemos uma espe
 
 ## 💻 Demonstração
 
-<img src = "./imagens.readme.png" />
+
 
 ## Aprendizados
 
