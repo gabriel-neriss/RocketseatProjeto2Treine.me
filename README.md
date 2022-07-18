@@ -8,6 +8,8 @@ Nesse projeto além dos conceitos já aprendidos de HTML e CSS, tivemos uma espe
 
 ![](https://user-images.githubusercontent.com/87450820/179571638-c2709a11-be1e-49fd-9652-405d390f349d.png)
 
+↗️ <a href="https://gabriel-neriss.github.io/RocketseatProjeto2Treine.me/">Ir até a page web </a>
+
 ## 🧠 Aprendizados
 
 - Semântica 
